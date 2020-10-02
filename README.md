@@ -1,2 +1,2 @@
 # Age-day-calculator
-A small calculator that uses html alerts to see how many days you've been alive based on your age
+A Age-day-calculator that uses html and javascript alerts to see how many days you've been alive based on your Date of Birth.
